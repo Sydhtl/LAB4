@@ -5,8 +5,8 @@ public class TicketCharge {
 	public static void main(String[] args) {
 		
 		Scanner scan = new Scanner(System.in);
-		
-		System.out.println("Enter your age");
+		System.out.println("The ticket will be charged based on your age");
+		System.out.println("\nEnter your age");
 		
 		int Age=scan.nextInt();
 		
